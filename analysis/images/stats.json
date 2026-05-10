@@ -1,0 +1,346 @@
+{
+  "generated_at": "2026-05-09T15:11:24+00:00",
+  "counts": {
+    "topics": 42,
+    "sources": 8,
+    "papers": 193,
+    "news_items": 143,
+    "rankings_p": 193,
+    "rankings_n": 143,
+    "links": 38,
+    "opportunities": 0,
+    "summaries": 0,
+    "runs": 10
+  },
+  "daily": [
+    {
+      "date": "2026-04-30",
+      "papers": 11,
+      "news": 0,
+      "links": 2,
+      "opps": 0
+    },
+    {
+      "date": "2026-05-01",
+      "papers": 3,
+      "news": 1,
+      "links": 0,
+      "opps": 0
+    },
+    {
+      "date": "2026-05-02",
+      "papers": 8,
+      "news": 1,
+      "links": 1,
+      "opps": 0
+    },
+    {
+      "date": "2026-05-03",
+      "papers": 6,
+      "news": 0,
+      "links": 0,
+      "opps": 0
+    },
+    {
+      "date": "2026-05-04",
+      "papers": 8,
+      "news": 0,
+      "links": 0,
+      "opps": 0
+    },
+    {
+      "date": "2026-05-05",
+      "papers": 10,
+      "news": 2,
+      "links": 0,
+      "opps": 0
+    },
+    {
+      "date": "2026-05-06",
+      "papers": 13,
+      "news": 2,
+      "links": 12,
+      "opps": 0
+    },
+    {
+      "date": "2026-05-07",
+      "papers": 133,
+      "news": 32,
+      "links": 23,
+      "opps": 0
+    },
+    {
+      "date": "2026-05-08",
+      "papers": 0,
+      "news": 61,
+      "links": 0,
+      "opps": 0
+    },
+    {
+      "date": "2026-05-09",
+      "papers": 0,
+      "news": 35,
+      "links": 0,
+      "opps": 0
+    }
+  ],
+  "top_papers": [
+    {
+      "arxiv_id": "2605.04903",
+      "title": "Delta-Based Neural Architecture Search: LLM Fine-Tuning via Code Diffs",
+      "kw_score": 3.0,
+      "novelty_score": 1.0,
+      "citation_score": 0.0,
+      "total_score": 4.0,
+      "industry_relevance": 1.926
+    },
+    {
+      "arxiv_id": "2605.06623",
+      "title": "MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems",
+      "kw_score": 3.0,
+      "novelty_score": 1.0,
+      "citation_score": 0.0,
+      "total_score": 4.0,
+      "industry_relevance": 1.7
+    },
+    {
+      "arxiv_id": "2605.04962",
+      "title": "TabEmbed: Benchmarking and Learning Generalist Embeddings for Tabular Understanding",
+      "kw_score": 3.0,
+      "novelty_score": 1.0,
+      "citation_score": 0.0,
+      "total_score": 4.0,
+      "industry_relevance": 1.05
+    },
+    {
+      "arxiv_id": "2605.06375",
+      "title": "A Unified Pair-GRPO Family: From Implicit to Explicit Preference Constraints for Stable and General RL Alignment",
+      "kw_score": 3.0,
+      "novelty_score": 1.0,
+      "citation_score": 0.0,
+      "total_score": 4.0,
+      "industry_relevance": 0.0
+    },
+    {
+      "arxiv_id": "2605.05908",
+      "title": "Architecture-agnostic Lipschitz-constant Bayesian header and its application to resolve semantically proximal classification errors with vision transformers",
+      "kw_score": 3.0,
+      "novelty_score": 1.0,
+      "citation_score": 0.0,
+      "total_score": 4.0,
+      "industry_relevance": 0.0
+    },
+    {
+      "arxiv_id": "2605.06647",
+      "title": "Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval",
+      "kw_score": 3.0,
+      "novelty_score": 0.9,
+      "citation_score": 0.0,
+      "total_score": 3.9,
+      "industry_relevance": 1.7
+    },
+    {
+      "arxiv_id": "2605.06117",
+      "title": "BoostLLM: Boosting-inspired LLM Fine-tuning for Few-shot Tabular Classification",
+      "kw_score": 3.0,
+      "novelty_score": 0.9,
+      "citation_score": 0.0,
+      "total_score": 3.9,
+      "industry_relevance": 1.467
+    },
+    {
+      "arxiv_id": "2605.06605",
+      "title": "How Many Iterations to Jailbreak? Dynamic Budget Allocation for Multi-Turn LLM Evaluation",
+      "kw_score": 3.0,
+      "novelty_score": 0.9,
+      "citation_score": 0.0,
+      "total_score": 3.9,
+      "industry_relevance": 0.0
+    },
+    {
+      "arxiv_id": "2605.01741",
+      "title": "Adaptive Texture-aware Masking for Self-Supervised Learning in 3D Dental CBCT Analysis",
+      "kw_score": 3.0,
+      "novelty_score": 0.9,
+      "citation_score": 0.0,
+      "total_score": 3.9,
+      "industry_relevance": 0.0
+    },
+    {
+      "arxiv_id": "2605.06635",
+      "title": "Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research Agents",
+      "kw_score": 3.0,
+      "novelty_score": 0.7,
+      "citation_score": 0.0,
+      "total_score": 3.7,
+      "industry_relevance": 1.934
+    }
+  ],
+  "source_contrib": [
+    {
+      "source": "Reddit r/artificial",
+      "count": 14,
+      "avg_sim": 0.133
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "count": 9,
+      "avg_sim": 0.12
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "count": 9,
+      "avg_sim": 0.123
+    },
+    {
+      "source": "HackerNews \u2014 top stories",
+      "count": 6,
+      "avg_sim": 0.132
+    }
+  ],
+  "silent_sources": [
+    "TechCrunch \u2014 AI",
+    "VentureBeat \u2014 AI",
+    "The Verge \u2014 front page",
+    "MIT Tech Review"
+  ],
+  "active_sources": [
+    "HackerNews \u2014 top stories",
+    "Reddit r/MachineLearning",
+    "Reddit r/LocalLLaMA",
+    "Reddit r/artificial",
+    "TechCrunch \u2014 AI",
+    "VentureBeat \u2014 AI",
+    "The Verge \u2014 front page",
+    "MIT Tech Review"
+  ],
+  "sim_dist": {
+    "n": 38,
+    "min": 0.102,
+    "max": 0.175,
+    "mean": 0.127,
+    "median": 0.12
+  },
+  "ir_dist": {
+    "n": 18,
+    "max": 1.934,
+    "mean": 1.455,
+    "median": 1.467
+  },
+  "top_keywords": [
+    {
+      "keyword": "[\"llm\"]",
+      "count": 70
+    },
+    {
+      "keyword": "[]",
+      "count": 52
+    },
+    {
+      "keyword": "[\"representation learning\"]",
+      "count": 29
+    },
+    {
+      "keyword": "\"representation learning\"]",
+      "count": 10
+    },
+    {
+      "keyword": "[\"transformers\"]",
+      "count": 8
+    },
+    {
+      "keyword": "[\"deep learning\"]",
+      "count": 6
+    },
+    {
+      "keyword": "[\"llm\"",
+      "count": 6
+    },
+    {
+      "keyword": "[\"ai\"",
+      "count": 5
+    },
+    {
+      "keyword": "\"deep learning\"]",
+      "count": 5
+    },
+    {
+      "keyword": "[\"ai\"]",
+      "count": 4
+    }
+  ],
+  "best_bridges": [
+    {
+      "paper_id": "2605.06527",
+      "paper_title": "STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?",
+      "source": "Reddit r/artificial",
+      "news_title": "I built a benchmark for AI \u201cmemory\u201d in coding agents. looking for others to beat it.",
+      "similarity": 0.1748085687667676
+    },
+    {
+      "paper_id": "2605.06635",
+      "paper_title": "Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research Agents",
+      "source": "Reddit r/artificial",
+      "news_title": "AMD's local, open-source AI can now easily interact with your Gmail",
+      "similarity": 0.17186756976946388
+    },
+    {
+      "paper_id": "2605.05344",
+      "paper_title": "Open-SAT: LLM-Guided Query Embedding Refinement for Open-Vocabulary Object Retrieval in Satellite Imagery",
+      "source": "Reddit r/LocalLLaMA",
+      "news_title": "We built and open-sourced Caliby: An embedded, high-performance vector database for AI Agents (Beats pgvector by 4x, outperforms FAISS on disk)",
+      "similarity": 0.168285670898459
+    },
+    {
+      "paper_id": "2605.06647",
+      "paper_title": "Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval",
+      "source": "Reddit r/artificial",
+      "news_title": "I built a benchmark for AI \u201cmemory\u201d in coding agents. looking for others to beat it.",
+      "similarity": 0.1671000828040794
+    },
+    {
+      "paper_id": "2605.06660",
+      "paper_title": "Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
+      "source": "HackerNews \u2014 top stories",
+      "news_title": "OpenAI\u2019s WebRTC problem",
+      "similarity": 0.16012815380508716
+    }
+  ],
+  "worst_bridges": [
+    {
+      "paper_id": "2604.28178",
+      "paper_title": "LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis",
+      "source": "Reddit r/artificial",
+      "news_title": "Is this as unnerving as it sounds?",
+      "similarity": 0.10211194414233114
+    },
+    {
+      "paper_id": "2605.06117",
+      "paper_title": "BoostLLM: Boosting-inspired LLM Fine-tuning for Few-shot Tabular Classification",
+      "source": "Reddit r/MachineLearning",
+      "news_title": "Disillusionment with mechanistic interpretability research [D]",
+      "similarity": 0.10267892954488211
+    },
+    {
+      "paper_id": "2605.04903",
+      "paper_title": "Delta-Based Neural Architecture Search: LLM Fine-Tuning via Code Diffs",
+      "source": "Reddit r/LocalLLaMA",
+      "news_title": "Reports suggest DeepSeek is seeking $7.35 billion in funding and plans to release its V4.1 update next month.",
+      "similarity": 0.10509877084907762
+    },
+    {
+      "paper_id": "2605.04903",
+      "paper_title": "Delta-Based Neural Architecture Search: LLM Fine-Tuning via Code Diffs",
+      "source": "Reddit r/MachineLearning",
+      "news_title": "DeepSeek V4 paper full version is out, FP4 QAT details and stability tricks [D]",
+      "similarity": 0.10589599166036892
+    },
+    {
+      "paper_id": "2605.04903",
+      "paper_title": "Delta-Based Neural Architecture Search: LLM Fine-Tuning via Code Diffs",
+      "source": "Reddit r/MachineLearning",
+      "news_title": "Diffusion for generating/editing ASTs? [D]",
+      "similarity": 0.10615495921641369
+    }
+  ]
+}
